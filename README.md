@@ -39,13 +39,16 @@ This project aims to develop a robust **classification model** to detect fraudul
 - **ROC-AUC Score:** 📈 1.00
 
 ### 🔍 Confusion Matrix
-![Confusion Matrix](image.png)
+![Confusion Matrix](![image](https://github.com/user-attachments/assets/f74e0da9-62a4-4ab2-a054-3a823cb25fa0)
+)
 
 ### 📈 Feature Importance
-![Feature Importance](image.png)
+![Feature Importance](![image](https://github.com/user-attachments/assets/eeb689d8-a83d-4a7e-a178-018f73478b35)
+)
 
 ### ⚠️ Class Distribution
-![Class Distribution](image.png)
+![Class Distribution](![image](https://github.com/user-attachments/assets/4dda0eb4-0eae-4798-af33-dc0d8759d010)
+)
 
 ## 🔥 Key Insights
 - **Imbalanced dataset:** The original dataset was highly skewed, requiring proper resampling techniques.
@@ -55,7 +58,7 @@ This project aims to develop a robust **classification model** to detect fraudul
 ## 📌 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/credit-card-fraud-detection.git
+   [https://github.com/Abdulmajeed1234/Credit-Card-Fraud-Detection.git]
    ```
 2. Install dependencies:
    ```bash
