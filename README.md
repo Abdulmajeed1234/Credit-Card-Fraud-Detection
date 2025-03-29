@@ -39,11 +39,13 @@ This project aims to develop a robust **classification model** to detect fraudul
 - **ROC-AUC Score:** 📈 1.00
 
 ### 🔍 Confusion Matrix
-![Confusion Matrix](![image](https://github.com/user-attachments/assets/f74e0da9-62a4-4ab2-a054-3a823cb25fa0)
+![Confusion Matrix]![image](https://github.com/user-attachments/assets/a449f710-60d0-48ab-9765-9c11f9ead33b)
+
 )
 
 ### 📈 Feature Importance
-![Feature Importance](![image](https://github.com/user-attachments/assets/eeb689d8-a83d-4a7e-a178-018f73478b35)
+![Feature Importance]![image](https://github.com/user-attachments/assets/c5e38065-4bf5-477c-8c95-9ff170845063)
+
 )
 
 ### ⚠️ Class Distribution
