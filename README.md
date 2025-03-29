@@ -47,8 +47,8 @@ This project aims to develop a robust **classification model** to detect fraudul
 )
 
 ### ⚠️ Class Distribution
-![Class Distribution](![image](https://github.com/user-attachments/assets/4dda0eb4-0eae-4798-af33-dc0d8759d010)
-)
+![Class Distribution]![image](https://github.com/user-attachments/assets/554d56df-f91a-4701-bb93-6bfc35006420)
+
 
 ## 🔥 Key Insights
 - **Imbalanced dataset:** The original dataset was highly skewed, requiring proper resampling techniques.
