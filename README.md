@@ -75,5 +75,4 @@ This project aims to develop a robust **classification model** to detect fraudul
 This project is open-source and available under the **MIT License**.
 
 ---
-💡 *Feel free to contribute or suggest improvements!* 🚀
 
